@@ -24,13 +24,13 @@ const App = () => (
       <SuperQuality />
     </section>
     <section className="padding">
-      <CustomerReviews />
+      <Services />
     </section>
     <section className=" bg-pale-blue padding">
       <Subscribe />
     </section>
     <section className="padding">
-      <Services />
+      <CustomerReviews />
     </section>
     <section className=" bg-pale-blue padding">
       <SpecialOffer />
