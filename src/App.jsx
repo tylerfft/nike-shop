@@ -21,7 +21,7 @@ const App = () => (
       <PopularProducts />
     </section>
     <section className="bg-pale-blue padding">
-      <Services />
+      <SuperQuality />
     </section>
     <section className="padding">
       <CustomerReviews />
@@ -30,7 +30,7 @@ const App = () => (
       <Subscribe />
     </section>
     <section className="padding">
-      <SuperQuality />
+      <Services />
     </section>
     <section className=" bg-pale-blue padding">
       <SpecialOffer />
