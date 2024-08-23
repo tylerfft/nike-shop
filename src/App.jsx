@@ -32,7 +32,7 @@ const App = () => (
     <section className="padding">
       <CustomerReviews />
     </section>
-    <section className=" bg-pale-blue padding">
+    <section className=" padding">
       <Subscribe />
     </section>
     <section className="padding bg-black padding-x padding-t pb-8">
