@@ -18,13 +18,13 @@ const App = () => (
       <Hero />
     </section>
     <section className="padding">
-      <CustomerReviews />
+      <PopularProducts />
     </section>
     <section className="bg-pale-blue padding">
       <Services />
     </section>
     <section className="padding">
-      <PopularProducts />
+      <CustomerReviews />
     </section>
     <section className=" bg-pale-blue padding">
       <Subscribe />
