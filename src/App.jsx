@@ -27,13 +27,13 @@ const App = () => (
       <Services />
     </section>
     <section className=" bg-pale-blue padding">
-      <Subscribe />
+      <SpecialOffer />
     </section>
     <section className="padding">
       <CustomerReviews />
     </section>
     <section className=" bg-pale-blue padding">
-      <SpecialOffer />
+      <Subscribe />
     </section>
     <section className="padding bg-black padding-x padding-t pb-8">
       <Footer />
